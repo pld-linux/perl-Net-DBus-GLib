@@ -6,7 +6,7 @@
 %define		pdir	Net
 %define		pnam	DBus-GLib
 Summary:	Net::DBus::GLib - Perl extension for the DBus GLib bindings
-Summary(pl.UTF-8):	Net::DBus - rozszerzenie Perla do dowiązań DBus GLib
+Summary(pl.UTF-8):	Net::DBus::GLib - rozszerzenie Perla do dowiązań DBus GLib
 Name:		perl-Net-DBus-GLib
 Version:	0.33.0
 Release:	1
