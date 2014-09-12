@@ -59,6 +59,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc AUTHORS CHANGES README
 %{perl_vendorarch}/Net/DBus/GLib.pm
 %dir %{perl_vendorarch}/auto/Net/DBus/GLib
-%{perl_vendorarch}/auto/Net/DBus/GLib/GLib.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Net/DBus/GLib/GLib.so
 %{_mandir}/man3/Net::DBus::GLib.3pm*
